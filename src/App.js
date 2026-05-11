@@ -16,7 +16,7 @@ const App = () => {
   const [history, setHistory] = useState([]);
   const [isFinished, setIsFinished] = useState(false);
 
-  // --- ADICIONADO AQUI: Definição das operações ---
+  // Definição das operações ---
   const operations = {
     "+": (n1, n2) => n1 + n2,
     "-": (n1, n2) => n1 - n2,
@@ -140,7 +140,7 @@ const App = () => {
         }
       }
 
-      setHistory((prev) => [`${expression} = ${result}`, ...prev].slice(0, 10));
+      setHistory((prev) => [`${expression} = ${result}`, ...prev].slice(0, 5));
       setCurrentNumber(String(result));
       setExpression(String(result));
       setIsFinished(true);
