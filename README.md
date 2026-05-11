@@ -1,6 +1,8 @@
 # 🧮 React Calculadora
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b)
+<!--  Link dos icones -->
+<!-- https://gist.github.com/kimjisub/360ea6fc43b82baaf7193175fd12d2f7#file-gistfile1-txt-L1 -->
 
 Uma calculadora moderna desenvolvida com **React.js** e **Styled Components**, focada em uma experiência de usuário fluida e lógica de operações encadeadas.
 
