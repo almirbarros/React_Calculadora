@@ -1,4 +1,4 @@
-# 🧮 React Calculator Pro
+# 🧮 React Calculadora
 
 Uma calculadora moderna desenvolvida com **React.js** e **Styled Components**, focada em uma experiência de usuário fluida e lógica de operações encadeadas.
 
