@@ -17,7 +17,7 @@ Uma calculadora moderna desenvolvida com **React.js** e **Styled Components**, f
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [React.js](https://reactjs.org) - Biblioteca principal.
+- [React.js](https://reactjs.org) - Biblioteca principal. (19.2.6)
 - [Styled Components](https://styled-components.com) - Estilização baseada em componentes (CSS-in-JS).
 
 ## 🎨 Layout
